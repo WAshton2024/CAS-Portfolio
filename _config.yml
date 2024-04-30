@@ -22,7 +22,7 @@ title: CAS Portfolio
 email: william.ashton@mcglashan.school.nz
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of CAS projects for the IBDP
-baseurl: "/CAS-Portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://washton2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
